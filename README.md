@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on — my personal portfolio site (React + TypeScript) and wrapping up my OJT at NQSTV, where I built and deployed their company website at nqstv.net<br>👯 I'm looking to collaborate on — full-stack web projects, open-source tools, or anything involving Python automation and AI/ML integrations<br>🤝 I'm looking for help with — landing my first full-time role as a software/web developer after graduating from Computer Engineering<br>🌱 I'm currently learning — GitHub Actions & CI/CD workflows, advanced React patterns, for Github Foundation certification<br>💬 Ask me about — building and deploying websites from scratch, drone AI systems, Python desktop apps, or NAS/IT infrastructure setup<br>⚡ Fun fact — I built a multi-function drone with thermal camera and AI-based human detection as my thesis project — and I was also the one flying it during field tests
+I'm Currently working at Sheehan Inc. as Jr. Systems and Website Developer, and a Part-time programmer for AVX Engineering Solutions as Programmer and Web Developer mainly focuses on fabrications of Embedded systems and Web-app developments. I'm also the founder of GXJ Web solutions as my private start-up.
 
 
 ## 🌐 Socials:
